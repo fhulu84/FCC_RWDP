@@ -7,4 +7,4 @@ FreeCodeCamp Responsive Web Design Projects
 
 3. Product Landing Page: https://codepen.io/fhulu_84/pen/JjdrXZY
 
-4. Technical Documentation Page: https://codepen.io/fhulu_84/pen/NWqwbYw
+4. Technical Documentation Page: https://repl.it/@fhulu84/FCCTechDocPage (unable to save on codepen)
